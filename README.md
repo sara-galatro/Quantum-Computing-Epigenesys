@@ -22,7 +22,6 @@ Le note in LaTeX e i notebooks sono stati rielaborati e scritti da me basandomi 
 
 Nell'ultimo giorno di corso, abbiamo usato vari notebook in Qiskit e in Ocean per spiegare il funzionamento delle piattaforme (IBM Quantum e Leap) e mostrare alcuni esempi, ma i file erano presi tra quelli disponibili sulle rispettive piattaforme e non li abbiamo modificati in alcun modo, ergo non sono neanche caricati in questa cartella.
 
-====================================================================================================================================================================================================================
 
 # Quantum_Computing_Epigenesys (EN version)
 Quantum Computing course on behalf of Epigenesys s.r.l. 
