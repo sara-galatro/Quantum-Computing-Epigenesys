@@ -8,9 +8,11 @@ The course was held by me (Sara Galatro) and a university colleague (Lorenzo Gas
 
 ## Content
 In this repository you can find:
-* my LaTeX notes (in pdf format) on the mathematical introduction, notions of quantum mechanics, probabilistic systems and quantum systems (basically, Day1 of the course)
+* my LaTeX notes (in pdf format) on the mathematical introduction, notions of quantum mechanics, probabilistic systems and quantum systems (basically, Day1 of the course);
+* my LaTeX notes (in pdf format) on Grover's Algorithm;
 * PowerPoint presentations (in pdf format) of the given lectures;
 * Jupyter Notebooks containing the various implementations in Qiskit;
-* the Bibliography file (in pdf format)
+* the Bibliography file (in pdf format);
+* the final program (in pdf format).
 
 The course was delivered in Italian, hence all the material is in Italian too.
