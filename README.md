@@ -18,7 +18,7 @@ In this repository you can find:
 The course was delivered in Italian, hence all the material is in Italian too.
 
 ## Additional notes
-The notes and the notebooks have been written/coded by me, whilist the presentations were created by both Lorenzo and me.
+The notes and the notebooks have been written/coded by me using the references cited in the Bibliography file, whilist the presentations were created by both Lorenzo and me (based on the topics we were each presenting).
 
 On the last day, we also used various Qiskit and Ocean notebooks to show a few examples and how to use the platforms (both IBM Quantum and Leap), but we did not act on any of their content, hence they are not uploaded in this repository.
 
