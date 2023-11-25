@@ -16,3 +16,10 @@ In this repository you can find:
 * the final program (in pdf format).
 
 The course was delivered in Italian, hence all the material is in Italian too.
+
+## Additional notes
+The notes and the notebooks have been written/coded by me, whilist the presentations were created by both Lorenzo and me.
+
+On the last day, we also used various Qiskit and Ocean notebooks to show a few examples and how to use the platforms (both IBM Quantum and Leap), but we did not act on any of their content, hence they are not uploaded in this repository.
+
+Feel free to contact me for any additional info!
